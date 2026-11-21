@@ -1,0 +1,59 @@
+[
+  {
+    "id": "A01",
+    "question": "Is accidental collision damage to my car covered?",
+    "should_answer": true,
+    "expected_sources": [
+      "sample_motor_policy_wording.pdf"
+    ],
+    "expected_facts": [
+      "accidental external means",
+      "terms and conditions",
+      "claim assessment"
+    ]
+  },
+  {
+    "id": "A02",
+    "question": "What compulsory deductible applies to an own-damage claim?",
+    "should_answer": true,
+    "expected_sources": [
+      "sample_motor_policy_schedule.pdf"
+    ],
+    "expected_facts": [
+      "INR 1,000",
+      "each own-damage claim"
+    ]
+  },
+  {
+    "id": "A03",
+    "question": "Does the schedule include roadside assistance and what is the towing limit?",
+    "should_answer": true,
+    "expected_sources": [
+      "sample_motor_policy_schedule.pdf"
+    ],
+    "expected_facts": [
+      "included",
+      "50 kilometres"
+    ]
+  },
+  {
+    "id": "A04",
+    "question": "What documents does the guide list for a theft claim?",
+    "should_answer": true,
+    "expected_sources": [
+      "sample_claim_guide.pdf"
+    ],
+    "expected_facts": [
+      "FIR",
+      "vehicle keys",
+      "non-traceable certificate"
+    ]
+  },
+  {
+    "id": "A05",
+    "question": "Does roadside assistance pay for hotel accommodation if my vehicle breaks down far from home?",
+    "should_answer": false,
+    "expected_sources": [],
+    "expected_facts": []
+  }
+]

@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.streamlit/secrets.toml
+.DS_Store
+# User data and local vector database should not be committed.
+data/**
+!data/.gitkeep
+
+# Generated evaluation outputs
+evaluation/latest_results.json
+evaluation/answer_results.json

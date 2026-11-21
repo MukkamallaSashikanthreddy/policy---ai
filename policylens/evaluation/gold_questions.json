@@ -1,0 +1,70 @@
+[
+  {
+    "id": "Q01",
+    "question": "Is accidental collision damage to my car covered?",
+    "expected_terms": [
+      "accidental external means"
+    ],
+    "absent_terms": []
+  },
+  {
+    "id": "Q02",
+    "question": "Does the policy cover flood damage?",
+    "expected_terms": [
+      "flood, inundation"
+    ],
+    "absent_terms": []
+  },
+  {
+    "id": "Q03",
+    "question": "Are mechanical breakdown repairs covered?",
+    "expected_terms": [
+      "mechanical or electrical breakdown"
+    ],
+    "absent_terms": []
+  },
+  {
+    "id": "Q04",
+    "question": "What compulsory deductible applies to an own-damage claim?",
+    "expected_terms": [
+      "compulsory deductible of INR 1,000"
+    ],
+    "absent_terms": []
+  },
+  {
+    "id": "Q05",
+    "question": "Does the policy include roadside assistance and towing?",
+    "expected_terms": [
+      "Roadside Assistance add-on: INCLUDED",
+      "up to 50 kilometres"
+    ],
+    "absent_terms": []
+  },
+  {
+    "id": "Q06",
+    "question": "What extra documents are needed for a theft claim?",
+    "expected_terms": [
+      "first information report (FIR)",
+      "all available sets of vehicle keys"
+    ],
+    "absent_terms": []
+  },
+  {
+    "id": "Q07",
+    "question": "Does roadside assistance cover hotel accommodation during a breakdown?",
+    "expected_terms": [],
+    "absent_terms": [
+      "hotel accommodation",
+      "overnight stay benefit"
+    ]
+  },
+  {
+    "id": "Q08",
+    "question": "Is an engine protection add-on included in the schedule?",
+    "expected_terms": [],
+    "absent_terms": [
+      "engine protection add-on",
+      "engine protect"
+    ]
+  }
+]
